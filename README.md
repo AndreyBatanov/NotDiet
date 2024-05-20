@@ -1,3 +1,3 @@
 # NotDietBy
 
-[Demo](https://andreybatanov.github.io/NotDietBuy/)
+[Demo](https://andreybatanov.github.io/NotDiet/)
